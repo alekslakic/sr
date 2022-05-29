@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Aleksandra Lakić</title>
+    <link href="https://alekslakic.github.io/me/feed.xml" rel="self" />
+    <link href="https://alekslakic.github.io/me" />
+    <updated>2022-05-29T20:14:36+02:00</updated>
+    <author>
+        <name>Aleksandra Lakić</name>
+    </author>
+    <id>https://alekslakic.github.io/me</id>
+
+    <entry>
+        <title>O meni</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/about-me.html"/>
+        <id>https://alekslakic.github.io/me/about-me.html</id>
+
+        <updated>2022-05-27T18:04:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alekslakic.github.io/me/media/posts/4/aleks4.jpeg" alt="" />
+                    Project manager with 3+ year of experience in developing, implementing and coordinating programs and projects. Strong competencies in organizing teams and allocating resources in compliance with project goals and objectives. Administrative and communication proficiency. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alekslakic.github.io/me/media/posts/4/aleks4.jpeg" alt="" />
+                <p>Project manager with 3+ year of experience in developing, implementing and coordinating programs and projects. Strong competencies in organizing teams and allocating resources in compliance with project goals and objectives. Administrative and communication proficiency. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Moje publikacije</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/my-publications.html"/>
+        <id>https://alekslakic.github.io/me/my-publications.html</id>
+
+        <updated>2022-05-27T18:44:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alekslakic.github.io/me/media/posts/2/2knjige.png" alt="" />
+                    Lorem ipsum sed sint autem porro et non consequatur velit. Assumenda illo aut et dolores illum aut nam. Eum ratione doloribus in. Voluptatem laudantium iusto consequatur. Distinctio deleniti facilis et sed impedit ut eveniet quod. Est quis ut aperiam odit et officia deserunt. In voluptas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alekslakic.github.io/me/media/posts/2/2knjige.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://alekslakic.github.io/me/media/posts/2/2knjige-2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-md.png 768w"  alt="" width="3258" height="1679"></figure>
+<h1 class="c-info__title  "> </h1>
+<div class="c-info__content chomp js-ellipsis">
+<p>Lorem ipsum sed sint autem porro et non consequatur velit. Assumenda illo aut et dolores illum aut nam. Eum ratione doloribus in. Voluptatem laudantium iusto consequatur. Distinctio deleniti facilis et sed impedit ut eveniet quod. Est quis ut aperiam odit et officia deserunt.</p>
+<p>In voluptas eum molestiae. Voluptatum earum consequatur aliquid provident error. Delectus aliquam et qui occaecati quo placeat. Inventore quae eligendi qui dolores asperiores possimus eum officiis.</p>
+<p>Quibusdam sit doloremque optio qui minima quidem dolorem. Ad placeat et eius sint quod dolor eos doloribus. Qui quasi ea voluptates blanditiis quo sit ullam reprehenderit. Assumenda voluptatem fuga corporis aperiam ullam necessitatibus velit et. Ut qui dolorem eius quas harum aut occaecati.</p>
+<p>Illum similique placeat provident facere sit harum hic quia. Excepturi vero cum reiciendis sunt labore. Labore et neque aut.</p>
+<p>Aut exercitationem accusamus assumenda deleniti saepe aut perferendis. Id quo voluptatibus rem. Dolores eos ut in temporibus accusamus.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>21st Century Self-management</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/21st-century-self-management.html"/>
+        <id>https://alekslakic.github.io/me/21st-century-self-management.html</id>
+            <category term="Publikacije"/>
+
+        <updated>2022-05-29T20:14:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    "The experience of Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market."&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    "The experience of  Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market."&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://alekslakic.github.io/me/media/posts/1/2knjige-2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-md.png 768w"  height="1679" width="3258" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ima li u Srbiji zelenih poslova?</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/green-jobs-in-serbia.html"/>
+        <id>https://alekslakic.github.io/me/green-jobs-in-serbia.html</id>
+            <category term="Članci"/>
+
+        <updated>2022-05-27T18:42:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Original title: Ima li u Srbiji zelenih poslova? Rastuća ekološka i klimatska kriza nameću potrebu za transformacijom ekonomije//privrede u pravcu izmene dominantnih obrazaca proizvodnje dobara i usluga na način koji ne vodi destrukcije životne sredine. Promena između ostalog zahteva izbacivanje iz upotrebe fosilnih goriva koji&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Original title:<br><strong>Ima li u Srbiji zelenih poslova?</strong></p>
+<p> </p>
+<h4 class="p1"><span class="s1">Zelena tranzicija i tržište rada</span></h4>
+<p> </p>
+<p class="p1">Rastuća ekološka i klimatska kriza nameću potrebu za transformacijom ekonomije//privrede u pravcu izmene dominantnih obrazaca proizvodnje dobara i usluga na način koji ne vodi destrukcije životne sredine. Promena između ostalog zahteva izbacivanje iz upotrebe fosilnih goriva koji su glavni uzročnik emisije gasova staklene bašte i njihovu zamenu obnovljivim izvorima energije, upotrebu tehnologije i proizvodnih procesa koji su klimatski i ekološki neutralni, kao i proizvodnju dobara i usluga korisnih za životnu sredinu. Jedan od centralnih izazova sa kojima se države u ovom procesu susreću tiče se troškova prilagođavanja ekonomije ekološkim imperativima, uključujući infrastrukturne troškove koje transformacija podrazumeva, kao i troškove prelaska na čistije tehnologije i proizvodne procese. Pored toga, <i>ozelenjavanje</i> ekonomije sa sobom nosi i niz društvenih dilema i pitanja, uključujući i one koje se odnose na efekte tranzicije na tržište rada. Na koji način obezbediti podršku za radnike i radnice koji će u procesu transformacije fosilnog sektora neminovno izgubiti poslove jer će određeni poslovi i proizvodni procesi kao što je recimo proizvodnja elektroenergije iz fosilnih goriva biti ukinuti? Kako obezbediti da zeleni poslovi budu dostojanstveni u pogledu individualnih i kolektivnih radnih prava i socio-ekonomske sigurnosti radnika/ca? To što je neka proizvodna aktivnost manje štetna po životnu sredinu ne znači da nužno podrazumeva adekvatne radne uslove, te je s toga neophodno osmisliti mehanizme koji će omogućiti da zeleni poslovi ujedno podrazumevaju i kvalitetno i sigurno zaposlenje. Odatle i pitanje koji su to mehanizmi, ko treba da ih osmisli i ko će snositi troškove njihove implementacije?</p>
+<p class="p2"> </p>
+<p class="p1">Deo odgovora na prethodno postavljena pitanja sadržan je u predlozima mera koje su u opticaju na međunarodnom nivou. Na primer Međunarodna organizacija rada je 2015. godine objavila <a href="https://www.ilo.org/global/topics/green-jobs/publications/WCMS_432859/lang--en/index.htm"><span class="s2"><strong>dokument</strong></span></a> pod nazivom <i>Smernice za pravednu tranziciju ka ekološki odživim ekonomijama i društvima za sve</i>, koji obuhvata predloge mera koje bi državama članicama trebalo da olakšaju tranziciju ka zelenijoj<i>, </i>ekološki održivijoj ekonomiji, a u koje su utkani i socijalni ciljevi. Ovaj dokument kombinuje ekonomske, ekološke i i društvene ciljeve i predlaže mere koje će omogućiti da troškovi, rizici i benefiti tranzicije budu raspodeljeni na pravičan način, uzimajući u obzir nejednakosti između pojedinaca i društvenih grupa, država, regiona i lokalnih zajednica, te različitih ekonomskih sektora. Osim proceduralnih elemenata (predlozi mera za koordinaciju politika na različitim nivoima), u dokumentu se navode i oblasti u kojima je potrebno preduzeti konkretne mere, u rasponu od makroekonomskih i politika rasta,<span class="Apple-converted-space">  </span>do socijalne zaštite i politika u oblasti rada. U dokumentu se između ostalog ističe da je strategiju ekonomskog rasta potrebno menjati kroz podsticaje za razvoj zelenog sektora, te obezbediti mere podrške<span class="Apple-converted-space">  </span>za radnike/ce koji će u procesu tranzicije izgubiti radna mesta, pri čemu je naglasak na tzv. aktivnim politikama zapošljavanja i merama usmerenim na profesionalnu i obrazovnu prekvalifikaciju kako bi se radnici/e prilagodili novonastalim okolnostima na tržištu rada<span class="s3">. </span>Na sličnoj liniji je i Evropski zeleni dogovor koji je Evropska komisija usvojila 2020. godine, a koji predstavlja okvir koji treba da omogući da Evropska Unija do 2050. godine dostigne nulti nivo emisije gasova staklene bašte, a da istovremeno obezbedi ekonomski rast i socijalnu sigurnost kroz mere usmerene na najranjivije kategorije društva, uključujući radnike/ce zaposlene u fosilnom sektoru.</p>
+<p class="p2"> </p>
+<p class="p1">Iako je nesporno da predložena rešenja imaju izraženu socijalnu dimenziju ona ipak ne dotiču srž problema i zbog toga više predstavljaju listu lepih želja nego strategiju usmerenu na radikalnu promenu postojećeg ekonomskog sistema koji je glavni uzrok ekološke krize. Naime, ni jedna od navedenih strategija ne dovodi direktno u pitanje samu logiku kapitalističkog ekonomskog modela, zasnovanu na ideji neograničenog rasta koja vodi iscrpljivanju prirodnih resursa jedne strane i klimatskim promenama sa jeden strane i eksploataciji rada sa druge. Ovo postaje naročito očigledno, uzme li se u obzir da je u oba dokumenta/strategije udeo privatnog sektora u pogledu troškova tranzicije neproporcionalan u odnosu na troškove javnog sektora i u odnosu na ekološki trag koji privatni sektor proizvodi.<span class="Apple-converted-space"> </span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
